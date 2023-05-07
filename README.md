@@ -83,9 +83,9 @@ Always active the stimulus set
 
 ![image](https://user-images.githubusercontent.com/98138216/236652095-1f87ed05-0496-4a93-82c0-a9c07760cab9.png)
 
-Now you can see the reaction of the ouput signals
+Now you can see the reaction of the ouput signals, for this case the signal y
 
-![image](https://user-images.githubusercontent.com/98138216/236652148-a74e5e41-8e25-4cda-86c2-9cdf69e410ed.png)
+![image](https://user-images.githubusercontent.com/98138216/236652260-380f954a-22f6-4c69-a859-c8ea959c3286.png)
 
 
 
