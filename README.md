@@ -73,7 +73,7 @@ Select the signal ans set a stimulus
 
 ![image](https://user-images.githubusercontent.com/98138216/236652051-00bd7cfa-6ce1-4d6e-a0ab-38ceb6737052.png)
 
-Selext the time of the simulation and start
+Select the time of the simulation and run (Alt + F5)
 
 ![image](https://user-images.githubusercontent.com/98138216/236652062-c415e38e-3c05-4c0a-a55e-2a81f76e3749.png)
 
