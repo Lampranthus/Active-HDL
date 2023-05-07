@@ -31,7 +31,7 @@ Select the lenguage source code and type the name of the file
 
 ![image](https://user-images.githubusercontent.com/98138216/236651625-9564badb-67cf-430c-9c32-aefe513c66f2.png)
 
-Type de code
+Type the code
 
 ![image](https://user-images.githubusercontent.com/98138216/236651705-02a923c0-56d9-4a49-a13f-0fb7f16a7977.png)
 
