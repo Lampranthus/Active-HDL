@@ -4,7 +4,7 @@ use ieee.std_logic_1164.all;
 
 entity mux_4a1_n is
 	generic(
-	n	:	integer := 2
+	n	:	integer := 2 		--n-bits
 	);
 	port(
 	x0,x1,x2,x3	: in std_logic_vector(n-1 downto 0);
