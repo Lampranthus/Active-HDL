@@ -45,6 +45,8 @@ For simulate create a new waveform and initialize simulation (F6)
 
 ![image](https://user-images.githubusercontent.com/98138216/236651750-b2e5f11f-1166-472f-b31b-7459311409b2.png)
 
+![image](https://user-images.githubusercontent.com/98138216/236652194-163e8911-c02d-47fa-8391-80a8d4d75733.png)
+
 Drag the structure named the same as the file into de white space
 
 ![image](https://user-images.githubusercontent.com/98138216/236651828-cc1418d2-79cc-4846-874c-8b4712d5c09a.png)
