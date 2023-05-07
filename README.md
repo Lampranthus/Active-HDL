@@ -31,6 +31,72 @@ Select the lenguage source code and type the name of the file
 
 ![image](https://user-images.githubusercontent.com/98138216/236651625-9564badb-67cf-430c-9c32-aefe513c66f2.png)
 
+Type de code
+
+![image](https://user-images.githubusercontent.com/98138216/236651705-02a923c0-56d9-4a49-a13f-0fb7f16a7977.png)
+
+Compile
+
+![image](https://user-images.githubusercontent.com/98138216/236651725-3f64aafd-3645-4c23-8ee7-af9de564149f.png)
+
+![image](https://user-images.githubusercontent.com/98138216/236651732-e13ba108-1686-48a3-8d32-389df4b3fbfc.png)
+
+For simulate create a new waveform and initialize simulation (F6)
+
+![image](https://user-images.githubusercontent.com/98138216/236651750-b2e5f11f-1166-472f-b31b-7459311409b2.png)
+
+Drag the structure named the same as the file into de white space
+
+![image](https://user-images.githubusercontent.com/98138216/236651828-cc1418d2-79cc-4846-874c-8b4712d5c09a.png)
+
+![image](https://user-images.githubusercontent.com/98138216/236651835-18a5bad9-b7b7-4043-9c27-90ca3928d3c2.png)
+
+Now you can see all the signals. Create a stimuli set
+
+![image](https://user-images.githubusercontent.com/98138216/236651895-26dc2256-1731-4e81-b935-d96da8502283.png)
+
+Create a stimulus
+
+![image](https://user-images.githubusercontent.com/98138216/236651916-00db8f06-554a-43ac-934c-b6d2913e35e9.png)
+
+name the stimulus and select its format
+
+![image](https://user-images.githubusercontent.com/98138216/236651977-c294d631-87f4-4a06-98ba-fae662925517.png)
+
+Select the signal ans set a stimulus
+
+![image](https://user-images.githubusercontent.com/98138216/236652025-49c7d18c-4112-4970-a1ee-d94ce3242264.png)
+
+![image](https://user-images.githubusercontent.com/98138216/236652032-216f9f92-0eef-4947-a58d-87fb8009a29a.png)
+
+![image](https://user-images.githubusercontent.com/98138216/236652051-00bd7cfa-6ce1-4d6e-a0ab-38ceb6737052.png)
+
+Selext the time of the simulation and start
+
+![image](https://user-images.githubusercontent.com/98138216/236652062-c415e38e-3c05-4c0a-a55e-2a81f76e3749.png)
+
+Always active the stimulus set
+
+![image](https://user-images.githubusercontent.com/98138216/236652093-03129bca-2c1a-4f20-a965-9e1edb888957.png)
+
+![image](https://user-images.githubusercontent.com/98138216/236652095-1f87ed05-0496-4a93-82c0-a9c07760cab9.png)
+
+Now you can see the reaction of the ouput signals
+
+![image](https://user-images.githubusercontent.com/98138216/236652148-a74e5e41-8e25-4cda-86c2-9cdf69e410ed.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
